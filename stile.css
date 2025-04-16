@@ -1,0 +1,28 @@
+
+h1 { text-align: center;color: #004d80;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+
+img {display: block; margin: 20px auto;box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);height: auto;}
+
+p {font-family: 'Georgia', serif;font-size: 15px;color: #333;}
+
+q{ color: #2e7d32; font-style: italic;border-left: 4px solid #81c784;padding-left: 16px;margin: 16px;}
+
+.VedereGiovani{background-color: rgba(0, 191, 255, 0.2);padding: 20px;border-radius: 10px;margin: 20px 0;}
+.vederefamiglie {background-color: rgba(255, 165, 0, 0.2); padding: 20px;border-radius: 10px margin 20px 0;}
+.verde{background-color: #32933759;padding: 20px;border-radius: 10px;margin: 20px 0;}
+
+
+
+ul {list-style-type: square;padding-left: 20px;color: #1a3e5c; font-size: 15px;}
+
+ul li {margin-bottom: 12px;}
+
+
+li strong {color: #004d80;font-weight: bold;}
+
+
+footer {margin-top: 40px;text-align: center;font-size: 16px;padding: 12px;background-color: #e3f2fd;border-top: 2px solid #90caf9;}
+
+a:hover {text-decoration: underline;}
+
+a:visited {color: #b30000; }
